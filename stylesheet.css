@@ -1,0 +1,62 @@
+/* #winter{
+    height: 40px;
+    width:auto;
+    height: 40px;
+    width:auto;
+    position:fixed;
+    z-index: 100;
+} */
+
+#summer{
+    height: 280px;
+}
+
+
+#fall{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+
+}
+
+#uno{
+    margin-left:200px;
+
+}
+
+#dos{
+    margin-right:none;
+    margin-left:160px;
+}
+
+.card-img-top{
+    height: 430px;
+   
+}
+
+
+.sopa{
+    margin-bottom: 100px;
+}
+
+
+#spring{
+    background-color: black;
+
+}
+
+#sol{
+    margin-left: 80px;
+}
+
+#sky{
+    margin-left: 10px;
+}
+
+
+#luna{
+    text-align: center;
+    margin-left: 220px
+
+}
+
